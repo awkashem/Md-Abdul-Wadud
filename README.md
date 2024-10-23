@@ -32,11 +32,3 @@ Skills: C / C++ / BOOTSTRAP / REACT / JS / HTML / CSS
 <hr/>
 <br/>
 
-## Connect with me
-
-<div align="center">
-<br/>
-<a href="https://twitter.com/tutul181" target="_blank">
-<a href="https://www.linkedin.com/in/mawadud/" target="_blank">
-<a href="https://www.facebook.com/tutul181" target="_blank">
-</div>
