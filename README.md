@@ -24,7 +24,7 @@ Skills: C / C++ / BOOTSTRAP / REACT / JS / HTML / CSS
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mawadud/" target="blank"</a>
+<a href="https://www.linkedin.com/in/mawadud/" target="blank"> Linkdin Profile </a>
 </p>
 
 
